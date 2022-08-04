@@ -8,4 +8,8 @@ func main(){
 	fmt.Println(fname)
 	fmt.Println(lname)
 	fmt.Println(fnum)
+
+	var x,y= "hello","world"
+	fmt.Print(x,"\n",y,"\n")
+	fmt.Print(x,y)
 }
